@@ -1,5 +1,7 @@
 # Hi 👋, I'm Pushkar Kumar
 
+![Profile Views](https://komarev.com/ghpvc/?username=pushkar444&color=blue)
+
 🎓 B.Tech CSE Student at IILM University
 
 💻 Learning C++, DSA, AI and Open Source
