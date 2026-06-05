@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Pushkar Kumar
 
-<!--
-**pushkar444/pushkar444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at IILM University
 
-Here are some ideas to get you started:
+💻 Learning C++, DSA, AI and Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently working on:
+- Plant Disease Detection Using Deep Learning
+- DSA in C++
+
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/pushkar-kumar-02798a317/
+- GitHub: https://github.com/pushkar444
+
+## 🛠 Skills
+- C++
+- Python
+- Git & GitHub
+- TensorFlow
+- Flask
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkar444&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar444&layout=compact)
