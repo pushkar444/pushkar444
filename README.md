@@ -21,9 +21,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkar444&show_icons=true)
+![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkar444&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar444&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushkar444&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar444&layout=compact&theme=tokyonight)
+
 ## 🛠️ Languages and Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
