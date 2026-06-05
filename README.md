@@ -1,6 +1,8 @@
 # Hi 👋, I'm Pushkar Kumar
 
-![Profile Views](https://komarev.com/ghpvc/?username=pushkar444&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pushkar444&color=blue" />
+</p>
 
 🎓 B.Tech CSE Student at IILM University
 
