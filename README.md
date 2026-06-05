@@ -19,6 +19,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+  ## 🚀 Projects
+
+### 🌱 Plant Disease Detection Using Deep Learning
+
+A deep learning-based system that classifies plant diseases from leaf images using CNNs.
+
+🔗 [View Project](https://github.com/pushkar444/BTP2CSE183-Plant-Disease-Detection-Using-ML)
+
 ## 📊 GitHub Stats
 
 ![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkar444&show_icons=true&theme=tokyonight)
