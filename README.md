@@ -33,7 +33,7 @@ A deep learning-based system that classifies plant diseases from leaf images usi
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushkar444&theme=tokyonight)
 
-## 🚀 Most Used Languag
+## 🚀 Most Used Language
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar444&layout=compact&theme=radical" />
