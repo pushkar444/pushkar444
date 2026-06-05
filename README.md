@@ -48,7 +48,7 @@ A deep learning-based system that classifies plant diseases from leaf images usi
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/pushkar444/pushkar444/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/pushkar444/pushkar444/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 # ✍️ Random Dev Quote
