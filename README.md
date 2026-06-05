@@ -4,9 +4,9 @@
 
 💻 Learning C++, DSA, AI and Open Source
 
-🌱 Currently working on:
-- Plant Disease Detection Using Deep Learning
-- DSA in C++
+🌱 Built a Plant Disease Detection project using TensorFlow and Flask.
+
+🚀 Currently focused on DSA, C++, Open Source, and Software Development.
 
 📫 Reach me:
 - LinkedIn: https://www.linkedin.com/in/pushkar-kumar-02798a317/
