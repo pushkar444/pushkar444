@@ -12,19 +12,22 @@
 
 🚀 Currently focused on DSA, C++, Open Source, and Software Development.
 
+
 <h2 align="left">🌐 Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pushkar-kumar-02798a317/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="55" height="55"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pushkar444" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="55"/>
   </a>
 </p>
 
 <hr>
+```
+
 
 ## 🛠 Skills
 
